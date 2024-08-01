@@ -24,13 +24,7 @@ The project uses publicly available datasets of retinal images, including but no
 
 The project processes retinal images and provides predictions on cardiovascular disease risk. Below are examples of input images and their predicted outputs.
 
-### Input Retinal Image
 
-![](https://github.com/RathanGP/Retinal_Analysis_For_CardiovasularDisease/blob/main/dataset/10_right.jpeg)
-![](https://github.com/RathanGP/Retinal_Analysis_For_CardiovasularDisease/blob/main/dataset/1343_left.jpeg)
-
-### Predicted Output
-![Predicted Output](path_to_output_image)
 
 The predicted output image may include highlighted regions, annotations, or a heatmap indicating areas of concern related to cardiovascular disease.
 
