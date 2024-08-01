@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/c77266b2-4ac6-4a1a-90aa-8cf43bd90dac
-
 # Retinal Analysis for Cardiovascular Disease
 
 ## Project Overview
@@ -22,7 +20,9 @@ The project uses publicly available datasets of retinal images, including but no
 - [Retina Image Bank](https://www.imagebank.asrs.org/)
 - [STARE (Structured Analysis of the Retina)](http://cecas.clemson.edu/~ahoover/stare/)
 
-## Input and Output
+## Working
+https://github.com/user-attachments/assets/c77266b2-4ac6-4a1a-90aa-8cf43bd90dac
+
 
 
 
