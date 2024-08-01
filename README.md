@@ -26,6 +26,7 @@ The project processes retinal images and provides predictions on cardiovascular 
 
 ### Input Retinal Image
 ![](https://github.com/RathanGP/Retinal_Analysis_For_CardiovasularDisease/blob/main/dataset/10_right.jpeg)
+![](https://github.com/RathanGP/Retinal_Analysis_For_CardiovasularDisease/blob/main/dataset/1343_left.jpeg)
 
 ### Predicted Output
 ![Predicted Output](path_to_output_image)
