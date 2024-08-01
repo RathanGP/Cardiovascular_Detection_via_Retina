@@ -4,8 +4,6 @@
 
 This project aims to leverage retinal imaging to assess and detect cardiovascular diseases. By analyzing retinal images, we can uncover biomarkers and patterns that indicate the presence or risk of cardiovascular conditions, offering a non-invasive and efficient screening tool.
 
-
-
 ## Introduction
 
 Cardiovascular diseases (CVD) are the leading cause of death globally. Early detection and continuous monitoring are crucial for effective treatment and management. Retinal imaging provides a unique opportunity to observe blood vessel conditions that may reflect cardiovascular health.
@@ -27,7 +25,7 @@ The project uses publicly available datasets of retinal images, including but no
 The project processes retinal images and provides predictions on cardiovascular disease risk. Below are examples of input images and their predicted outputs.
 
 ### Input Retinal Image
-![Input Retinal Image](path_to_input_image)
+![]([path_to_input_image](https://github.com/RathanGP/Retinal_Analysis_For_CardiovasularDisease/blob/main/dataset/10_right.jpeg))
 
 ### Predicted Output
 ![Predicted Output](path_to_output_image)
