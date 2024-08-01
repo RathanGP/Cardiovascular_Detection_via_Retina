@@ -22,19 +22,8 @@ The project uses publicly available datasets of retinal images, including but no
 
 ## Input and Output
 
-The project processes retinal images and provides predictions on cardiovascular disease risk. Below are examples of input images and their predicted outputs.
 
-
-
-The predicted output image may include highlighted regions, annotations, or a heatmap indicating areas of concern related to cardiovascular disease.
 
 ## Results
 
 The project aims to achieve high accuracy in detecting cardiovascular diseases through retinal image analysis. Detailed results and model performance metrics will be shared upon completion of the experiments.
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
