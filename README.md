@@ -1,5 +1,5 @@
+https://github.com/user-attachments/assets/c77266b2-4ac6-4a1a-90aa-8cf43bd90dac
 
-https://github.com/RathanGP/Retinal_Analysis_For_CardiovasularDisease/blob/main/Video.mp4
 # Retinal Analysis for Cardiovascular Disease
 
 ## Project Overview
