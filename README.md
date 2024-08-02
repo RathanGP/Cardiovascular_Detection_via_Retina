@@ -23,11 +23,8 @@ The project uses publicly available datasets of retinal images, including but no
 - [Retina Image Bank](https://www.imagebank.asrs.org/)
 - [STARE (Structured Analysis of the Retina)](http://cecas.clemson.edu/~ahoover/stare/)
 
-
-
-
-
-
 ## Results
 
 The project aims to achieve high accuracy in detecting cardiovascular diseases through retinal image analysis. Detailed results and model performance metrics will be shared upon completion of the experiments.
+
+
